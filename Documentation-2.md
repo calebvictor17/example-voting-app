@@ -9,10 +9,10 @@ This project implements a **hybrid deployment model**, separating **Infrastructu
    Once the foundational infrastructure is established, GitHub Actions handles application containerization, security scanning (Trivy), and continuous delivery via Helm charts. This ensures rapid iteration on application code without manual packaging overhead.
 
    Scan
-   ![scan](./assets/scan.png)
+   ![scan](./screenshots/scan.png)
 
    Successful Deployment
-   ![successful-deployment](./assets/successful-deployment.png)
+   ![successful-deployment](./screenshots/successful-deployment.png)
 
 ---
 
